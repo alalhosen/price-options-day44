@@ -8,11 +8,11 @@ function App() {
 
   return (
     <>
-    <NavBar></NavBar>
-    {/* <DaisyNav></DaisyNav> */}
+      <NavBar></NavBar>
+      {/* <DaisyNav></DaisyNav> */}
       <h1 className='text-4xl bg-rose-400'>Vite + React</h1>
       <PriceOptions></PriceOptions>
-<Footer></Footer>
+      <Footer></Footer>
     </>
   )
 }
